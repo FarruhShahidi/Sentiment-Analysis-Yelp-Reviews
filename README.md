@@ -13,8 +13,8 @@ Finally, I used the Streamlit framework to create an interactive dashboard of th
 
 ![](/wc.png "most popular words for 5 star")
 
-Demo of the interactive dashboard. 
-[![](/streamlit-demo.mp4 "demo")]
+[Demo](https://github.com/FarruhShahidi/Star-Classification-Yelp-Reviews/blob/master/streamlit-demo.mp4) of the interactive dashboard. 
+
 
 
 Also, feel free to work with the app.py file. [Streamlit](https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html) installation is needed

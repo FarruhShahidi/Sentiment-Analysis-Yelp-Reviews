@@ -11,8 +11,12 @@ In addition, I applied the  [LSTM]https://en.wikipedia.org/wiki/Long_short-term_
 
 Finally, I used the Streamlit framework to create an interactive dashboard of the reviews which depicts a random review according to given star, Histogram, Pie Chart. I also used the WordCloud library to visualize the most popular words. 
 
-![](wc.png, "most popular words for 5 star")
+![](/wc.png, "most popular words for 5 star")
 
-Demo of the interactive dashboard. Also, feel free to work with the app.py file. [Streamlit](https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html) installation is needed
+Demo of the interactive dashboard. 
+![](/streamlit-demo.mp4, "demo")
+
+
+Also, feel free to work with the app.py file. [Streamlit](https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html) installation is needed
 
 
